@@ -25,7 +25,7 @@ I once built an ML model that caught fake reviews better than most humans — 90
 
 ## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com](https://www.linkedin.com/in/hashim-ali-400094310/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/hashim-ali-400094310/))
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hashim.ali@ut.ee)
 
 ---
