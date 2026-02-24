@@ -1,99 +1,98 @@
-# 💫 About Me
+# 👋 Hashim Ali
 
-🎓 **MSc Software Engineering — University of Tartu, Estonia**  
-Focus: DevOps, Cloud-Native Systems, Secure Software Engineering, Agile Development | GPA: 4.6/5.0
+## MSc Software Engineering @ University of Tartu, Estonia  
 
-🔭 **Currently Working On**  
-Building cloud-native systems and full-stack applications using Docker, Kubernetes, GitLab CI/CD, and modern backend frameworks.
-
-👯 **Open to Collaborate On**  
-Backend development, DevOps pipelines, microservice architectures, ML systems, and data engineering projects.
-
-🤝 **Looking for Help With**  
-Scaling distributed systems, advanced Kubernetes orchestration, and optimizing CI/CD workflows for production environments.
-
-🌱 **Currently Learning**  
-Cloud-native engineering, distributed systems design, secure software architecture, and container orchestration at scale.
-
-💬 **Ask Me About**  
-Docker, Kubernetes, GitLab CI/CD, Helm charts, Prometheus & Grafana monitoring, Flask, PostgreSQL, and ETL pipelines.
-
-⚡ **Fun Fact**  
-I once built an ML model that caught fake reviews better than most humans — 90.7% accuracy on real marketplace data.
+DevOps-focused Software Engineer building secure, scalable cloud-native systems.  
+Strong background in backend architecture, CI/CD automation, container orchestration, and production monitoring.
 
 ---
 
-## 🌐 Socials
+## 🚀 Core Focus
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hashim-ali-400094310/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hashim.ali@ut.ee)
+- Designing and deploying containerized microservices
+- Building automated CI/CD pipelines
+- Developing secure backend systems and REST APIs
+- Implementing observability and monitoring
+- Engineering data pipelines and ML systems
 
 ---
 
-# 💻 Tech Stack
+# 🛠 Tech Stack
 
-### 🗣️ Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,sql,elixir" />
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 💻 Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,elixir" />
 </p>
+<br>
 
-`Python` `Java` `JavaScript` `TypeScript` `SQL` `Elixir`
+</td>
+<td width="50%" valign="top">
 
-### ⚙️ DevOps & Infrastructure
-<p>
+### ⚙️ DevOps & Cloud
+<p align="center">
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,gitlab,linux,prometheus,grafana" />
 </p>
+<br>
 
-`Docker` `Kubernetes` `GitLab CI/CD` `Linux` `Prometheus` `Grafana` `Helm`
+</td>
+</tr>
 
-### 🖥️ Backend & Frameworks
-<p>
+<tr>
+<td width="50%" valign="top">
+
+### 🖥 Backend
+<p align="center">
   <img src="https://skillicons.dev/icons?i=flask,spring,fastapi" />
 </p>
 
-`Flask` `Spring Boot` `Phoenix (Elixir)` `FastAPI`
+<p align="center">
+Phoenix (Elixir)
+</p>
+
+</td>
+<td width="50%" valign="top">
 
 ### 🌐 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,html,css,tailwind" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,html,css" />
 </p>
 
-`Next.js` `React` `HTML` `CSS` `Tailwind`
+</td>
+</tr>
 
-### 🗄️ Databases
-<p>
+<tr>
+<td width="50%" valign="top">
+
+### 🗄 Databases
+<p align="center">
   <img src="https://skillicons.dev/icons?i=postgres,redis" />
 </p>
+<br><br>
 
-`PostgreSQL` `Redis`
+</td>
+<td width="50%" valign="top">
 
-### 🧠 Machine Learning & Data
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Pandas](https://img.shields.io/badge/XGBoost-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Pandas](https://img.shields.io/badge/NLTK-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-
-
-### 🧪 Testing & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,postman,jest" />
+### 🧠 Data & ML
+<p align="center">
+Scikit-Learn • XGBoost • Pandas • NumPy • NLTK
 </p>
+<br><br>
 
-`Git` `Postman` `Jest` `BDD` `ExUnit`
+</td>
+</tr>
+</table>
 
----
+## 🌐 Connect
 
-# 📁 Featured Projects
-
-🛠️ **DevOps & Full-Stack Reddit-Style App**  
-Microservice architecture with Docker, Kubernetes, Helm, GitLab CI/CD, Prometheus & Grafana monitoring.
-
-🔍 **Fake Review Detection System**  
-ML pipeline using NLP + XGBoost/SVM achieving **90.70% accuracy** on real marketplace data.
-
-🌍 **EarthScanner – Travel Planning Platform**  
-RESTful APIs in Elixir/Phoenix with BDD test suites and PostgreSQL, built with a Scrum team.
-
-📊 **ECB Exchange Rates ETL Pipeline**  
-Modular ETL pipeline processing 30+ currencies with automated statistical reporting.
+<p>
+  <a href="https://www.linkedin.com/in/hashim-ali-400094310/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:hashim.ali@ut.ee">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
