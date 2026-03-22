@@ -12,6 +12,8 @@
 
 <br/>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hashimminhas&label=Profile%20views&color=0e75b6&style=flat" alt="hashimminhas" /> </p>
+
 ## My Skill Set  
 <table><tr><td valign="top" width="20%">
 
@@ -112,3 +114,9 @@
 </td></tr></table>
 
 <br/>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hashimminhas&show_icons=true&locale=en&layout=compact" alt="hashimminhas" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hashimminhas&show_icons=true&locale=en" alt="hashimminhas" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hashimminhas&" alt="hashimminhas" /></p>
