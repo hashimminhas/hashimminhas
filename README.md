@@ -75,3 +75,21 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hashimminhas&show_icons=true&locale=en" alt="hashimminhas" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hashimminhas&" alt="hashimminhas" /></p>
+
+
+
+
+
+
+
+
+
+
+
+
+[![Hashim's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hashimminhas&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&width=500&lines=DevOps+Engineer+%F0%9F%9A%80;Cloud+Native+%7C+Kubernetes+%7C+GitLab;Backend+Architect;Open+to+Collaborate+%F0%9F%91%8B)](https://git.io/typing-svg)
+
+
