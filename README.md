@@ -8,107 +8,62 @@
 
 - ❓ Ask me about DevOps, distributed systems, backend engineering, and cloud technologies  
 
-- <a href="https://www.linkedin.com/in/hashim-ali-400094310/" target="_blank">Work Profile</a>
+- Collaborating: What kind of projects are you open to? (e.g., open-source DevOps tools, backend systems, cloud projects)
+  
+- Open to work: What role are you looking for? (e.g., DevOps Engineer, Backend Engineer, Cloud Engineer)
 
 <br/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hashimminhas&label=Profile%20views&color=0e75b6&style=flat" alt="hashimminhas" /> </p>
 
-## My Skill Set  
+## My Skill Set
+
 <table><tr><td valign="top" width="20%">
 
-### Frontend  
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" height="50" />
-</a>  
-<a href="https://nextjs.org/" target="_blank">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" height="50" />
-</a>  
-<a href="https://www.typescriptlang.org/" target="_blank">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" height="50" />
-</a>  
-<a href="https://www.javascript.com/" target="_blank">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="50" />
-</a>  
-<a href="https://tailwindcss.com/" target="_blank">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" height="50" />
-</a>  
+### Frontend
+<div align="center">
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind&perline=3" />
+</a>
 </div>
 
 </td><td valign="top" width="20%">
 
-### Backend  
-<div align="center">  
-<a href="https://www.python.org/" target="_blank">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" height="50" />
-</a>  
-<a href="https://spring.io/" target="_blank">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" height="50" />
-</a>  
-<a href="https://flask.palletsprojects.com/" target="_blank">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" height="50" />
-</a>  
-<a href="https://fastapi.tiangolo.com/" target="_blank">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/fastapi.png" height="50" />
-</a>  
-<a href="https://elixir-lang.org/" target="_blank">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/elixir.png" height="50" />
-</a>  
+### Backend
+<div align="center">
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=py,spring,flask,fastapi,elixir&perline=3" />
+</a>
 </div>
 
 </td><td valign="top" width="20%">
 
-### DevOps  
-<div align="center">  
-<a href="https://www.docker.com/" target="_blank">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" height="50" />
-</a>  
-<a href="https://kubernetes.io/" target="_blank">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" height="50" />
-</a>  
-<a href="https://about.gitlab.com/" target="_blank">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" height="50" />
-</a>  
-<a href="https://www.linux.org/" target="_blank">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" height="50" />
-</a>  
-<a href="https://prometheus.io/" target="_blank">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/prometheus.png" height="50" />
-</a>  
-<a href="https://grafana.com/" target="_blank">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/grafana.png" height="50" />
-</a>  
+### DevOps
+<div align="center">
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,gitlab,linux,prometheus,grafana&perline=3" />
+</a>
 </div>
 
 </td><td valign="top" width="20%">
 
-### Databases  
-<div align="center">  
-<a href="https://www.postgresql.org/" target="_blank">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" height="50" />
-</a>  
-<a href="https://redis.io/" target="_blank">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" height="50" />
-</a>  
+### Databases
+<div align="center">
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=postgres,redis&perline=2" />
+</a>
 </div>
 
 </td><td valign="top" width="20%">
 
-### Data & ML  
-<div align="center">  
-<a href="https://scikit-learn.org/" target="_blank">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/scikit-learn.svg" height="50" />
-</a>  
-<a href="https://pandas.pydata.org/" target="_blank">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pandas-original.svg" height="50" />
-</a>  
-<a href="https://numpy.org/" target="_blank">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/numpy-original.svg" height="50" />
-</a>  
-<a href="https://xgboost.ai/" target="_blank">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xgboost.png" height="50" />
-</a>  
+### Data & ML
+<div align="center">
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=sklearn,pytorch&perline=2" />
+</a>
+<br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="50" style="margin:10px" title="Pandas"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="50" style="margin:10px" title="NumPy"/>
 </div>
 
 </td></tr></table>
