@@ -76,24 +76,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hashimminhas&" alt="hashimminhas" /></p>
 
-
-
-
-
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hashimminhas/hashimminhas/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hashimminhas/hashimminhas/output/github-contribution-grid-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/hashimminhas/hashimminhas/output/github-contribution-grid-snake.svg"/>
-</picture>
-
-
-
-
-[![Hashim's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hashimminhas&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&width=500&lines=DevOps+Engineer+%F0%9F%9A%80;Cloud+Native+%7C+Kubernetes+%7C+GitLab;Backend+Architect;Open+to+Collaborate+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 
