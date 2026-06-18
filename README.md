@@ -44,7 +44,7 @@ I'm a **Software Engineer** and MSc student at the **University of Tartu**, work
 
 <div align="center">
 
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,python,typescript,javascript,elixir,vue,nextjs,spring,flask,phoenix,nodejs,rabbitmq,postgres,redis,docker,kubernetes,gitlab,nginx,prometheus,grafana,git&theme=dark&perline=11" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,python,typescript,javascript,elixir,vue,nextjs,spring,flask,nodejs,rabbitmq,postgres,redis,docker,kubernetes,gitlab,nginx,prometheus,grafana,git&theme=dark&perline=11" /></a>
 
 </div>
 
