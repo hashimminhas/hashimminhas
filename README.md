@@ -6,15 +6,15 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&multiline=false&width=760&height=50&lines=MSc+Software+Engineering+%40+University+of+Tartu;Architecting+Java+%26+Spring+Boot+Microservices;Event-Driven+Systems+%E2%80%A2+Secure+APIs+%E2%80%A2+Cloud-Native+Delivery;Open+to+Software+Engineering+Internships+%E2%80%94+2026" alt="Typing SVG" />
 </a>
 
-<br/>
+<!-- <br/>
 
 <img src="https://img.shields.io/badge/MSc-Software%20Engineering-7C3AED?style=for-the-badge&logo=academia&logoColor=white&labelColor=1A1B2E" />
 <img src="https://img.shields.io/badge/University%20of%20Tartu-GPA%204.6%2F5.0-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=1A1B2E" />
-<img src="https://img.shields.io/badge/Tartu%2C%20Estonia-5B21B6?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=1A1B2E" />
+<img src="https://img.shields.io/badge/Tartu%2C%20Estonia-5B21B6?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=1A1B2E" /> -->
 
-<br/>
+<!-- <br/> -->
 
-<a href="https://uuriturg.cs.ut.ee">
+<!-- <a href="https://uuriturg.cs.ut.ee">
   <img src="https://img.shields.io/badge/Portfolio-Live%20Project-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1A1B2E" />
 </a>
 <a href="https://linkedin.com/in/hashim-ali-400094310">
@@ -25,33 +25,12 @@
 </a>
 <a href="https://github.com/hashimminhas">
   <img src="https://img.shields.io/badge/GitHub-Follow-5B21B6?style=for-the-badge&logo=github&logoColor=white&labelColor=1A1B2E" />
-</a>
+</a> -->
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=hashimminhas&label=Profile%20Views&color=7C3AED&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/hashimminhas?label=Followers&style=for-the-badge&color=8B5CF6&labelColor=1A1B2E" />
-<img src="https://img.shields.io/github/stars/hashimminhas?label=Stars&style=for-the-badge&color=A78BFA&labelColor=1A1B2E" />
-
-</div>
-
----
-
-## <div align="center"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=99999&color=A78BFA&center=true&vCenter=true&width=400&height=40&lines=%E2%9D%96+About+Me+%E2%9D%96" alt="About" /></div>
 
 <div align="center">
 
-> *Software engineer focused on backend systems, distributed architectures, and the path from first commit to production.*
-
-</div>
-
-I'm a **Master's student in Software Engineering** at the **University of Tartu**, building the kind of systems most teams need but few engineers fully own end-to-end. My work centers on **Java and Spring Boot microservices**, **event-driven communication** over message brokers, **secure REST APIs**, and the delivery pipelines that get all of it into production.
-
-I treat **software engineering** as a craft: clean service boundaries, well-modeled domains, observable systems, and code that future maintainers can read without flinching. On the **full-stack** side I'm comfortable taking a feature from PostgreSQL schema to Vue or Next.js UI; on the **AI / ML** side I've trained and benchmarked supervised classifiers for production fraud detection.
-
-I bring a **product engineering mindset** — I built and shipped Üüriturg, a rental aggregator now serving the Tartu market live, after experiencing the problem it solves first-hand. Shipping isn't a phase of the project for me; it's the proof.
-
-<div align="center">
+I'm a **Software Engineer** and MSc student at the **University of Tartu**, working across **Java/Spring Boot microservices**, event-driven systems, and secure REST APIs. I'm just as comfortable shipping the **DevOps side** Docker, Kubernetes, CI/CD as I am modeling data and building **full-stack** features end to end.
 
 ### 🔓 Open To
 
@@ -61,29 +40,17 @@ I bring a **product engineering mindset** — I built and shipped Üüriturg, a 
 
 ---
 
-## <div align="center"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=99999&color=A78BFA&center=true&vCenter=true&width=400&height=40&lines=%E2%9D%96+Tech+Stack+%E2%9D%96" alt="Stack" /></div>
+## <div align="center"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=99999&color=A78BFA&center=true&vCenter=true&width=400&height=36&lines=%E2%9D%96+Tech+Stack+%E2%9D%96" alt="Stack" /></div>
 
 <div align="center">
 
-### Languages
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,python,typescript,javascript,elixir,bash&theme=dark" /></a>
-
-### Frontend
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vue,nextjs,react,html,css,tailwind&theme=dark" /></a>
-
-### Backend & Databases
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=spring,flask,phoenix,nodejs,fastapi,rabbitmq,postgres,redis,sqlite&theme=dark" /></a>
-
-### Cloud, DevOps & Tooling
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,kubernetes,gitlab,githubactions,nginx,prometheus,grafana,linux,git,maven&theme=dark" /></a>
-
-### Data & ML
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=sklearn,pytorch&theme=dark" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,python,typescript,javascript,elixir,vue,nextjs,spring,flask,phoenix,nodejs,rabbitmq,postgres,redis,docker,kubernetes,gitlab,nginx,prometheus,grafana,git&theme=dark&perline=11" /></a>
 
 </div>
 
 ---
 
+<!--
 ## <div align="center"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=99999&color=A78BFA&center=true&vCenter=true&width=500&height=40&lines=%E2%9D%96+AI+%2F+ML+Expertise+%E2%9D%96" alt="AI ML" /></div>
 
 <div align="center">
@@ -100,7 +67,9 @@ I bring a **product engineering mindset** — I built and shipped Üüriturg, a 
 </div>
 
 ---
+-->
 
+<!--
 ## <div align="center"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=99999&color=A78BFA&center=true&vCenter=true&width=500&height=40&lines=%E2%9D%96+Featured+Projects+%E2%9D%96" alt="Projects" /></div>
 
 <details>
@@ -176,30 +145,6 @@ End-to-end ownership of containerization, orchestration, pipeline design, and me
 </details>
 
 <details>
-<summary><b>🌍 EarthScanner — Travel Planning Platform</b></summary>
-
-<br/>
-
-A travel planning platform built in **Phoenix (Elixir)** as part of a 4-member Scrum team. Focused on concurrent request handling, transactional consistency, and behaviour-driven test coverage of the critical booking flows.
-
-<div align="center">
-
-| Attribute | Detail |
-| :--- | :--- |
-| **Stack** | Elixir · Phoenix · PostgreSQL · WhiteBread (BDD) · ExUnit |
-| **Scale** | 4-member Scrum team · sprint-based delivery · backlog grooming · code reviews |
-| **Performance** | Concurrent user request handling · optimized booking-workflow queries |
-| **Security** | Transactional data consistency · validated input boundaries on booking APIs |
-| **Impact** | Regression detection across sprints via BDD suites on critical paths |
-| **Repository** | Course project · University of Tartu |
-
-</div>
-
-A deliberate foray into functional concurrency with the BEAM — the architectural lessons (process isolation, supervision, message passing) carry directly into how I think about resilient microservices in any language.
-
-</details>
-
-<details>
 <summary><b>🤖 Fake Review Detection — ML Classification Pipeline</b></summary>
 
 <br/>
@@ -246,7 +191,9 @@ A lightweight Chrome / Firefox extension that hides distracting site elements su
 </details>
 
 ---
+-->
 
+<!--
 ## <div align="center"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=99999&color=A78BFA&center=true&vCenter=true&width=400&height=40&lines=%E2%9D%96+Experience+%E2%9D%96" alt="Experience" /></div>
 
 ### 🎓 MSc Researcher & Project Engineer &nbsp;·&nbsp; *University of Tartu, Institute of Computer Science*
@@ -279,6 +226,7 @@ Designed, trained, and evaluated a supervised classification system for fraudule
 `Python` &nbsp; `scikit-learn` &nbsp; `XGBoost` &nbsp; `NLTK` &nbsp; `pandas` &nbsp; `Feature Engineering`
 
 ---
+-->
 
 ## <div align="center"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=99999&color=A78BFA&center=true&vCenter=true&width=400&height=40&lines=%E2%9D%96+Achievements+%E2%9D%96" alt="Achievements" /></div>
 
@@ -287,145 +235,22 @@ Designed, trained, and evaluated a supervised classification system for fraudule
 | Recognition | Details |
 | :--- | :--- |
 | 🏆 **UT ICS Student Project Contest — 2026** | Presented Üüriturg at the University of Tartu poster session |
-| 🎓 **Academic Excellence — MSc Software Engineering** | GPA 4.6 / 5.0 at the University of Tartu |
 | 🎮 **Youth Participation Idea Competition** | Certificate · Team Soda Orange · GAMEIN project · Tampere University · co-funded by the EU |
-| 🚀 **Live Production Deployment** | Üüriturg serving 600+ listings on university infrastructure |
-| 📈 **Open Source Contributor** | 470+ contributions across 27 repositories |
-| 🌍 **International Engineering Profile** | Software engineering across Pakistan and Estonia |
 
 </div>
 
----
-
-## <div align="center"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=99999&color=A78BFA&center=true&vCenter=true&width=400&height=40&lines=%E2%9D%96+Certifications+%E2%9D%96" alt="Certifications" /></div>
-
 <div align="center">
 
-### University of Tartu — Coursework Specializations
-<img src="https://img.shields.io/badge/Enterprise%20System%20Integration-7C3AED?style=for-the-badge&logo=spring&logoColor=white&labelColor=1A1B2E" />
-<img src="https://img.shields.io/badge/Web%20Security-6D28D9?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=1A1B2E" />
-<img src="https://img.shields.io/badge/Software%20Product%20Management-5B21B6?style=for-the-badge&logo=productmanager&logoColor=white&labelColor=1A1B2E" />
+### Certifications
 
-### Tampere University — EU Programs
 <img src="https://img.shields.io/badge/GAMEIN-Youth%20Participation%20Certificate-8B5CF6?style=for-the-badge&logo=europeanunion&logoColor=white&labelColor=1A1B2E" />
 
-### Languages
-<img src="https://img.shields.io/badge/English-PTE%2065%20B2-7C3AED?style=for-the-badge&logo=duolingo&logoColor=white&labelColor=1A1B2E" />
-<img src="https://img.shields.io/badge/Estonian-A1-6D28D9?style=for-the-badge&logo=googletranslate&logoColor=white&labelColor=1A1B2E" />
-
 </div>
 
 ---
 
-## <div align="center"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=99999&color=A78BFA&center=true&vCenter=true&width=400&height=40&lines=%E2%9D%96+Coding+Profiles+%E2%9D%96" alt="Coding" /></div>
 
-<div align="center">
-
-<a href="https://github.com/hashimminhas">
-  <img src="https://img.shields.io/badge/GitHub-hashimminhas-1A1B2E?style=for-the-badge&logo=github&logoColor=A78BFA&labelColor=1A1B2E" height="42" />
-</a>
-<a href="https://leetcode.com/">
-  <img src="https://img.shields.io/badge/LeetCode-Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1A1B2E" height="42" />
-</a>
-<a href="https://www.hackerrank.com/">
-  <img src="https://img.shields.io/badge/HackerRank-Practicing-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=1A1B2E" height="42" />
-</a>
-<a href="https://www.codechef.com/">
-  <img src="https://img.shields.io/badge/CodeChef-Learning-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=1A1B2E" height="42" />
-</a>
-<a href="https://www.geeksforgeeks.org/">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-Reading-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=1A1B2E" height="42" />
-</a>
-
-</div>
-
----
-
-## <div align="center"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=99999&color=A78BFA&center=true&vCenter=true&width=500&height=40&lines=%E2%9D%96+GitHub+Analytics+%E2%9D%96" alt="Analytics" /></div>
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=hashimminhas&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9" />
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=hashimminhas&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=8B5CF6&currStreakLabel=A78BFA" />
-
-<br/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hashimminhas&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=8" />
-
-</div>
-
----
-
-## <div align="center"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=99999&color=A78BFA&center=true&vCenter=true&width=400&height=40&lines=%E2%9D%96+GitHub+Trophies+%E2%9D%96" alt="Trophies" /></div>
-
-<div align="center">
-
-<a href="https://github.com/hashimminhas">
-  <img src="https://github-profile-trophy.vercel.app/?username=hashimminhas&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" />
-</a>
-
-</div>
-
----
-
-## <div align="center"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=99999&color=A78BFA&center=true&vCenter=true&width=500&height=40&lines=%E2%9D%96+Contribution+Activity+%E2%9D%96" alt="Activity" /></div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hashimminhas&theme=react-dark&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C4B5FD&hide_border=true&area=true" />
-
-</div>
-
----
-
-## <div align="center"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=99999&color=A78BFA&center=true&vCenter=true&width=500&height=40&lines=%E2%9D%96+Contribution+Snake+%E2%9D%96" alt="Snake" /></div>
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-</picture>
-
-</div>
-
----
-
-## <div align="center"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=99999&color=A78BFA&center=true&vCenter=true&width=400&height=40&lines=%E2%9D%96+Current+Focus+%E2%9D%96" alt="Focus" /></div>
-
-```yaml
-focus:
-  learning:
-    - Distributed systems patterns (saga, CQRS, event sourcing)
-    - Advanced Kubernetes (operators, custom resources, GitOps with ArgoCD)
-    - Web security (XS-Leaks, modern CSP, post-quantum primitives)
-    - System design at scale (rate limiting, sharding, consistent hashing)
-  building:
-    - Üüriturg — scaling toward GDPR-compliant platform partnerships
-    - Backend microservice patterns in Java 21 and Spring Boot 3.x
-    - Personal portfolio infrastructure & developer tooling
-  exploring:
-    - Service mesh adoption (Istio, Linkerd)
-    - eBPF for observability and runtime security
-    - LLM-augmented developer productivity workflows
-  open_to:
-    - Software Engineering internships (Summer / Autumn 2026)
-    - Backend, DevOps, Cloud, and Security Engineering roles
-    - Tartu · Tallinn · Remote across the EU
-    - Collaborations on open-source DevOps and developer-tooling projects
-  contact:
-    email: hashim.ali@ut.ee
-    linkedin: linkedin.com/in/hashim-ali-400094310
-    github: github.com/hashimminhas
-    location: Tartu, Estonia
-```
-
----
-
-## <div align="center"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=99999&color=A78BFA&center=true&vCenter=true&width=400&height=40&lines=%E2%9D%96+Connect+%E2%9D%96" alt="Connect" /></div>
-
-<div align="center">
+<!-- <div align="center">
 
 <a href="mailto:hashim.ali@ut.ee">
   <img src="https://img.shields.io/badge/Gmail-hashim.ali%40ut.ee-7C3AED?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1A1B2E" />
@@ -440,13 +265,12 @@ focus:
   <img src="https://img.shields.io/badge/Portfolio-Live%20Project-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1A1B2E" />
 </a>
 
-</div>
-
----
+</div> -->
+<img src="https://komarev.com/ghpvc/?username=hashimminhas&label=Profile%20Views&color=7C3AED&style=for-the-badge" />
 
 <div align="center">
 
-> *"Software engineering is the discipline of turning ambiguity into systems that hold up — long after the demo is over."*
+ *"Software engineering is the discipline of turning ambiguity into systems that hold up long after the demo is over."*
 
 <br/>
 
