@@ -234,8 +234,8 @@ Designed, trained, and evaluated a supervised classification system for fraudule
 
 | Recognition | Details |
 | :--- | :--- |
-| 🏆 **UT ICS Student Project Contest — 2026** | Presented Üüriturg at the University of Tartu poster session |
-| 🎮 **Youth Participation Idea Competition** | Certificate · Team Soda Orange · GAMEIN project · Tampere University · co-funded by the EU |
+|  **UT ICS Student Project Contest 2026** | Presented Üüriturg at the University of Tartu poster session |
+|  **Youth Participation Idea Competition** | Certificate · Team Soda Orange · GAMEIN project · Tampere University · co-funded by the EU |
 
 </div>
 
