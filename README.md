@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=240&section=header&text=Hashim%20Ali&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Backend%20%E2%80%A2%20DevOps%20%E2%80%A2%20Security&descAlignY=58&descSize=18" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=240&section=header&text=Hashim%20Ali&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Backend%20%E2%80%A2%20DevOps%20%E2%80%A2%20&descAlignY=58&descSize=18" alt="header" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&multiline=false&width=760&height=50&lines=MSc+Software+Engineering+%40+University+of+Tartu;Architecting+Java+%26+Spring+Boot+Microservices;Event-Driven+Systems+%E2%80%A2+Secure+APIs+%E2%80%A2+Cloud-Native+Delivery;Open+to+Software+Engineering+Internships+%E2%80%94+2026" alt="Typing SVG" />
@@ -44,7 +44,7 @@ I'm a **Software Engineer** and MSc student at the **University of Tartu**, work
 
 <div align="center">
 
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,python,typescript,javascript,elixir,vue,nextjs,spring,flask,nodejs,rabbitmq,postgres,redis,docker,kubernetes,gitlab,nginx,prometheus,grafana,git&theme=dark&perline=11" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,python,spring,flask,rabbitmq,postgres,redis,docker,kubernetes,gitlab,nginx,prometheus,grafana,git&theme=dark&perline=7" /></a>
 
 </div>
 
@@ -274,6 +274,6 @@ Designed, trained, and evaluated a supervised classification system for fraudule
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=fadeIn" alt="footer" />
+<!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=fadeIn" alt="footer" /> -->
 
 </div>
