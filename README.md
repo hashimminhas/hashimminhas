@@ -244,6 +244,7 @@ Designed, trained, and evaluated a supervised classification system for fraudule
 ### Certifications
 
 <img src="https://img.shields.io/badge/GAMEIN-Youth%20Participation%20Certificate-8B5CF6?style=for-the-badge&logo=europeanunion&logoColor=white&labelColor=1A1B2E" />
+<img src="https://img.shields.io/badge/Hacker Rank-Orchestrate%20%20Hackathon-8B5CF6?style=for-the-badge&logo=europeanunion&logoColor=white&labelColor=1A1B2E" />
 
 </div>
 
